@@ -1,6 +1,7 @@
-<img src="asset/Cover.png" alt="Cover Image" width="100%" height="400px">
+<img src="asset/Cover.png" alt="Cover Image" width="100%" height="350px">
 
 ## 🙋‍♂️ About Me
+
 <p>
 I'm a junior Frontend based web developer. I create interactive web experiences combining HTML5, CSS3, and JavaScript. Want to learn more about MERN (MongoDB, Express.js, React.js, Node.js),
 </p>
@@ -21,7 +22,6 @@ I'm a junior Frontend based web developer. I create interactive web experiences 
 
 ### 📫 How to reach me: arifu5758@gmail.com
 
-
 ## 💻my skills
 
 <p align="center">
@@ -35,16 +35,16 @@ I'm a junior Frontend based web developer. I create interactive web experiences 
     <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Logo" width="50" height="50" style="color: #FFCA28">
 </p>
 
-
 ## 📚Summary of My Profile
 
-<div style="display: flex; gap:10px;" align="center">
-
+<p width="100%">
 
 ![Top Language By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifu00&theme=tokyonight)
 
+</p>
+
+<p width="100%">
 
 ![Top Language By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifu00&theme=tokyonight)
 
-
-</div>
+</p>
