@@ -1,4 +1,4 @@
-<img src="asset/Cover.png" alt="Cover Image" width="100%" height="100px">
+<img src="asset/Cover.png" alt="Cover Image" width="100%" height="400px">
 
 ## 🙋‍♂️ About Me
 <p>
@@ -38,16 +38,13 @@ I'm a junior Frontend based web developer. I create interactive web experiences 
 
 ## 📚Summary of My Profile
 
-<div style="display: flex; gap:10px;" align="">
-<div align="">
+<div style="display: flex; gap:10px;" align="center">
+
 
 ![Top Language By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifu00&theme=tokyonight)
 
-</div>
-<div align="">
 
 ![Top Language By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifu00&theme=tokyonight)
 
-</div>
 
 </div>
