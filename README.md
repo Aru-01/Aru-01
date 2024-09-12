@@ -10,7 +10,7 @@ I'm a junior Frontend based web developer. I create interactive web experiences 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifu00&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aru-01&theme=dark-minimalist&border_radius=5.5)](https://git.io/streak-stats)
 
 </div>
 
