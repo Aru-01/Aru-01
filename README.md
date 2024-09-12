@@ -11,6 +11,8 @@ I'm a junior Frontend based web developer. I create interactive web experiences 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aru-01&theme=dark-minimalist&border_radius=5.5)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aru-01&show_icons=true&theme=radical)
+
 
 </div>
 
