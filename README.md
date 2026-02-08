@@ -5,10 +5,12 @@
   />
 </div>
 
+<P align="center">
+<img src="https://readme-typing-svg.demolab.com?font=fira&size=24&duration=6000&pause=1000&color=232264&background=903FFF00&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Arif;I'm+a+Backend+Developer" alt="Typing SVG" />
+</P>
 
-<h2 align="center">Hey 👋, I'm Ariful</h2>
 <p align="center">
-  A curious learner exploring web development and programming.
+  Python Backend Developer at Betopia Group | Passionate about learning and building
 </p>
 
 <p align="center">
@@ -19,32 +21,28 @@
 
 ## 🙋‍♂️ About Me
 
-I'm currently learning web development and programming through real-world projects and problem-solving.  
-I'm exploring the MERN stack (MongoDB, Express.js, React.js, Node.js) and also trying to improve my skills in C/C++, Python, and DSA.  
-I believe in learning by doing and building small but meaningful projects to grow as a developer.
+I'm currently working at **Betopia Group** as a **Python backend developer**.  
+I am skilled in **Python, C, C++, HTML, CSS, Tailwind CSS, React (basic), MySQL, PostgreSQL**, and always eager to learn **new technologies** to solve real-world problems.  
+I enjoy building projects, contributing to teams, and learning faster ways to create scalable and maintainable solutions.  
 
 ---
 
-## 🎯 2025 Goal Tracker
+## 🎯 2026 Goal Tracker
 
-### ✅ Achieved
-- ✅ Learn C/C++  
-- ✅ Learn Data Structures & Algorithms (DSA)  
-- ✅ Participate in Codeforces contests and reach Pupil or better  
-- ✅ Become a 2★/3★ coder on CodeChef  
-
-### 🔄 In Progress / Upcoming
-- 🚀 Learn Python  
-- 🌐 Learn Django  
-- 💼 Get a job/internship 
+### ✅ Achieved / In Progress
+- 🚀 Learn **FastAPI**
+- 🌐 Learn **TypeScript**
+- 💻 Improve **frontend technologies**
+- 📈 Reach **700+ GitHub commits**
+- 🏗️ Contribute to **15 big projects**
 
 ---
 
 ## 🌱 Currently Working On
 
-- Exploring MERN stack  
-- Learning backend with Django & Python  
-- Solving problems to improve algorithmic thinking  
+- Python backend projects
+- Exploring full-stack development concepts
+- Continuous learning in C/C++, SQL, and React basics  
 
 ---
 
@@ -77,19 +75,15 @@ I believe in learning by doing and building small but meaningful projects to gro
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
 </p>
 
 ---
