@@ -25,24 +25,41 @@ I'm currently working at **Betopia Group** as a **Python backend developer**.
 I am skilled in **Python, C, C++, HTML, CSS, Tailwind CSS, React (basic), MySQL, PostgreSQL**, and always eager to learn **new technologies** to solve real-world problems.  
 I enjoy building projects, contributing to teams, and learning faster ways to create scalable and maintainable solutions.  
 
+
 ---
 
-## 🎯 2026 Goal Tracker
+# 🎯 2026 Goal Tracker
 
-### ✅ Achieved / In Progress
-- 🚀 Learn **FastAPI**
-- 🌐 Learn **TypeScript**
-- 💻 Improve **frontend technologies**
-- 📈 Reach **700+ GitHub commits**
-- 🏗️ Contribute to **15 big projects**
+## 📚 Learning Progress
+
+### 🚀 Running
+- 📊 Learn NumPy & Pandas
+
+### 🎯 Next Targets
+- 📈 Learn Data Processing & Visualization
+- 🤖 Learn Basic Machine Learning
+- 🧠 Learn Advanced Machine Learning
+
+---
+
+## 🛠️ Practice Progress
+
+### 🚧 Current Goals
+- 📈 Reach 700+ GitHub Commits
+- 🏗️ Contribute to 15 Big Projects
+- 💻 Build 5+ Real-World Full Stack Projects
+- 🌍 Deploy Production-Level APIs
+- ⚡ Maintain Consistent Daily Coding
 
 ---
 
 ## 🌱 Currently Working On
 
-- Python backend projects
-- Exploring full-stack development concepts
-- Continuous learning in C/C++, SQL, and React basics  
+- 🚀 Building backend projects using Python and FastAPI  
+- 📊 Learning NumPy, Pandas, and data processing workflows  
+- 🤖 Exploring AI/ML fundamentals and machine learning concepts  
+- 🌐 Expanding knowledge of modern development tools and technologies  
+- 📚 Maintaining consistent learning and hands-on project building  
 
 ---
 
