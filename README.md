@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm currently working at **Betopia Group** as a **Python backend developer**.  
+I'm currently working at **JVai** as a **Python backend developer**.  
 I am skilled in **Python, C, C++, HTML, CSS, Tailwind CSS, React (basic), MySQL, PostgreSQL**, and always eager to learn **new technologies** to solve real-world problems.  
 I enjoy building projects, contributing to teams, and learning faster ways to create scalable and maintainable solutions.  
 
