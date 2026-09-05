@@ -82,9 +82,9 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aru-01&theme=dark&border_radius=5.5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=aru-01&theme=github_dark" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aru-01&show_icons=true&theme=radical&count_private=true&hide=stars" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aru-01&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 
 <p align="center">
   <img 
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=aru-01&theme=dark" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aru-01&layout=compact&theme=github_dark" 
     alt="Top Languages" 
     width="500"
   />
