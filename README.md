@@ -107,6 +107,11 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 
 ## 📚 Top Languages
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aru-01&layout=compact&langs_count=8&theme=tokyonight&card_width=445" alt="Top Languages" />
+  <img 
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=aru-01&theme=dark" 
+    alt="Top Languages" 
+    width="500"
+  />
 </p>
