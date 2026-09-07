@@ -112,6 +112,6 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aru-01&layout=compact&theme=github_dark" 
     alt="Top Languages" 
-    width="500"
+    width="400"
   />
 </p>
