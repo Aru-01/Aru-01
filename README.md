@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding Banner"
+    alt="Ariful Islam Coding Banner"
   />
 </div>
 
