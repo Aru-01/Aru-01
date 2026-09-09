@@ -63,17 +63,17 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me (Ariful Islam)
 
 <p align="center">
-  <a href="mailto:arifu5758@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:arifu5758@gmail.com" title="Email Ariful Islam">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ariful Islam" />
   </a>
-  <a href="https://www.linkedin.com/in/aru01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aru01/" title="Ariful Islam on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ariful Islam LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/Aru.0012">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/Aru.0012" title="Ariful Islam on Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Ariful Islam Facebook" />
   </a>
 </p>
 
