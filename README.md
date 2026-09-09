@@ -82,9 +82,9 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=aru-01&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=aru-01&theme=github_dark" alt="Ariful Islam GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aru-01&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aru-01&show_icons=true&theme=github_dark" alt="GitHub Stats" alt="Ariful Islam GitHub Stats"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ I enjoy building projects, contributing to teams, and learning faster ways to cr
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aru-01&layout=compact&theme=github_dark" 
-    alt="Top Languages" 
+   alt="Ariful Islam Top Languages"
     width="400"
   />
 </p>
